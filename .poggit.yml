@@ -1,7 +1,6 @@
 --- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/adamMCBE/GuildShopping
 branches:
-- main
-- .0.0.1
+- master
 projects:
   GuildShopping:
     path: ""
